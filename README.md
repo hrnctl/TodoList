@@ -10,6 +10,8 @@ Teşekkür ederim..
 
 Uygulama Apache Tomcat v9.0 Server' ı üzerinde çalışır. Database olarak da h2 database kullanılmaktadır. Gereksinimler klasöründe ikisinin de jar dosyasını ekleyeceğim. Apache server'ını kurduktan sonra Servers kısmında Add and Remove kısmından projeyi eklemeyi unutmayınız. 
 
+http://localhost:8080/TodoList/
+
 -h2 database ayarları: 
 
 Veri tabanı sürücü sınıfı: org.h2.Driver
