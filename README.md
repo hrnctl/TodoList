@@ -3,12 +3,12 @@
 Spring,HTML ve CSS kullanılarak yazılmış bir todo list uygulamasıdır. Üyelik paneli, todolist oluşturma, düzenleme, sıralama gibi fonksiyonlara sahiptir.
 
 -Uygulamanın eksikleri
-Verilen sürenin büyük bir kısmında todolistler oluşturup bu todolistlerin içine task'lar yerleştirmeye çalıştım. Ama spring e yeni başladığım için bu sorunun üstesinden gelemedim. Task ekleme kısmında todolistin id sini kaybediyordum ve bir türlü elde etmeyi başaramadım. Onu başarsaydım devamını da aynı şekilde getirecektim. Ben de yapamamaktansa tek bir todolist üzerinden sunmayı düşündüm. Onun dışında diğer eksiği de görevler arasında dependency oluşturamamam.Normalde unit test tecrübem var fakat bunlara yazdığım testleri uygulama ile aynı anda çalıştırmayı başaramadım. Server üzerinde nasıl testleri çalıştırabileceğimi bilemedim. Geri kalan kısmını yapmaya çalıştım.
+Verilen sürenin büyük bir kısmında todolistler oluşturup bu todolistlerin içine task'lar yerleştirmeye çalıştım. Ama spring e yeni başladığım için bu sorunun üstesinden gelemedim. Task ekleme kısmında todolistin id sini kaybediyordum ve bir türlü elde etmeyi başaramadım. Onu başarsaydım devamını da aynı şekilde getirecektim. Ben de yapamamaktansa tek bir todolist üzerinden sunmayı düşündüm. Onun dışında diğer eksiği de görevler arasında dependency oluşturamamam.Normalde unit test tecrübem var fakat bunlara yazdığım testleri uygulama ile aynı anda çalıştırmayı başaramadım. Server üzerinde testleri nasıl çalıştırabileceğimi bilemedim. Geri kalan kısmını yapmaya çalıştım.
 Teşekkür ederim..
 
 -Çalıştırma:
 
-Uygulama Apache Tomcat v9.0 Server' ı üzerinde çalışır. Database olarak da h2 database kullanılmaktadır. Gereksinimler klasöründe ikisinin de jar dosyasını ekleyeceğim. Apache server'ını kurduktan sonra Servers kısmında Add and Remove kısmından projeyi eklemeyi unutmayınız. 
+Uygulama Apache Tomcat v9.0 Server' ı üzerinde çalışır. Database olarak da h2 database kullanılmaktadır. Requirements klasöründe ikisinin de jar dosyasını ekleyeceğim. Apache server'ını kurduktan sonra Servers kısmında Add and Remove kısmından projeyi eklemeyi unutmayınız. 
 
 http://localhost:8080/TodoList/
 
